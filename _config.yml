@@ -1,11 +1,11 @@
 # Site settings
-author: Panela Leung
-title: 
+author: Pan Leung
+title: Lets start the the very beginning
 header-img: img/home-bg.png
 email: leungpanela@gmail.com
-copyright_name: Panela Leung
+copyright_name: Pan Leung
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Beginning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GenMaker
