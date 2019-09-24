@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "TimeFliesFast"
-date:       2019-09-24 16:06:27 +0000
+date:       2019-09-24 12:06:28 -0400
 permalink:  timefliesfast
 ---
 
