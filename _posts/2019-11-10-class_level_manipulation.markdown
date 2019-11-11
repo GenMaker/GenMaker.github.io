@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "class level manipulation"
-date:       2019-11-11 04:06:30 +0000
+date:       2019-11-10 23:06:30 -0500
 permalink:  class_level_manipulation
 ---
 
